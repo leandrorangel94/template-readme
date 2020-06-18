@@ -1,7 +1,7 @@
 <h1>Título do Projeto</h1>
 
 <p align="center">
-<image src=".github/logo.jpg"/></br>
+<image src="https://user-images.githubusercontent.com/39461509/85029720-fa1f2080-b152-11ea-8ebc-c78432bc532e.jpg"/></br>
 <label>Logo</label>
 </p>
 
@@ -21,7 +21,7 @@ Clique [aqui](https://shields.io/) e selecione escudos para o seu projeto.
 ## Apresentação do Projeto :sparkles:
 
 <p align="center">
-<image src=".github/image-example.png" />
+<image src="https://user-images.githubusercontent.com/39461509/85029714-f8edf380-b152-11ea-86a6-ec196309ae34.png" />
 </p>
 
 ---
