@@ -8,6 +8,7 @@
 <p align="center">
 <a href="#sobre-memo">Sobre</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a href="#tecnologias-rocket">Tecnologias</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#execute-no-seu-pc">Execute no seu PC</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a href="#como-contribuir-">Como Contribuir</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
@@ -32,7 +33,21 @@ Breve descrição sobre o projeto.
 
 ## Tecnologias :rocket:
 
-- <a href="#">Liste aqui</a>
+#### Back-end
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+
+#### Front-end
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+
+## Execute on your PC :computer:
+
+- Clone este repositorio e dentro da pasta execute o comando para instalar as dependencias, como `npm install` ou `yarn`;
+- Depois disso,execute o comando para rodar o projeto, por exemplo: `npm run dev` or `yarn start`;
+- Então acesse a aplicação com o endereço <strong> `http://localhost:3000`</strong>, lembre-se de trocar a porta caso esteja usando outra.
 
 ## Como contribuir 🤔
 
