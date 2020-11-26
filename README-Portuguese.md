@@ -43,7 +43,7 @@ Breve descrição sobre o projeto.
 - <a href="#">List here</a>
 - <a href="#">List here</a>
 
-## Execute on your PC :computer:
+## Execute no seu PC :computer:
 
 - Clone este repositorio e dentro da pasta execute o comando para instalar as dependencias, como `npm install` ou `yarn`;
 - Depois disso,execute o comando para rodar o projeto, por exemplo: `npm run dev` or `yarn start`;
