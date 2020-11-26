@@ -35,21 +35,21 @@ Brief description of project.
 
 ## Tecnologies :rocket:
 
-####Tech 01
+#### Back-end
 - <a href="#">List here</a>
 - <a href="#">List here</a>
 - <a href="#">List here</a>
 
-####Tech 02
+#### Front-end
 - <a href="#">List here</a>
 - <a href="#">List here</a>
 - <a href="#">List here</a>
 
 ## Execute on your PC :computer:
 
-- Clone this repository and inside the folder run the command `npm install`, to install the dependencies;
-- After that, do `npm run dev`;
-- Then access the application at <strong> `http://localhost:3000` </strong>
+- Clone this repository and inside the folder run the command to install the dependencies, like `npm install` or `yarn`;
+- After that, run the command to start the project, for example: `npm run dev` or `yarn start`;
+- Then access the application at <strong> `http://localhost:3000`</strong>, change the port if you're using another.
 
 ## How to Contribute 🤔
 
