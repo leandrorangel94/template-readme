@@ -6,10 +6,11 @@
 </p>
 
 <p align="center">
-<a href="#about-memo">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#tecnologies-rocket">Tecnologies</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#how-to-contribute-">How to Contribute</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#about-memo">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#tecnologies-rocket">Tecnologies</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#execute-on-your-pc-computer">Execute on your PC</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute-">How to Contribute</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -34,7 +35,21 @@ Brief description of project.
 
 ## Tecnologies :rocket:
 
+####Tech 01
 - <a href="#">List here</a>
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+
+####Tech 02
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+
+## Execute on your PC :computer:
+
+- Clone this repository and inside the folder run the command `npm install`, to install the dependencies;
+- After that, do `npm run dev`;
+- Then access the application at <strong> `http://localhost:3000` </strong>
 
 ## How to Contribute 🤔
 
